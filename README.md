@@ -82,7 +82,7 @@ The platform is an educational prototype built to demonstrate full-stack securit
 <details>
 <summary>Screenshot placeholders (expand to see suggested layout)</summary>
 
-```
+
 <!-- Student Dashboard -->
 <img src="public/screenshots/student-dashboard.png" alt="Student Dashboard" width="49%"/>
 
@@ -100,7 +100,7 @@ The platform is an educational prototype built to demonstrate full-stack securit
 
 <!-- Admin Analytics -->
 <img src="public/screenshots/admin-analytics.png" alt="Admin Analytics Dashboard" width="49%"/>
-```
+
 
 </details>
 
